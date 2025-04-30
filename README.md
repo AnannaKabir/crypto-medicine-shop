@@ -58,7 +58,7 @@ medicine-shop/
 ### 🔌 Setup & Run
 
 ```bash
-git clone https://github.com/yourusername/medicine-shop.git
+git clone https://github.com/AnannaKabir/crypto-medicine-shop.git
 cd medicine-shop
 npm install
 truffle compile
@@ -82,13 +82,7 @@ Unit tests cover:
 - Stock updates
 - Buyer validations
 
----
-
-## 📜 License
-
-MIT License — free to use, learn, and build upon.
-
----
+---\
 
 ## 🤝 Contribution
 
